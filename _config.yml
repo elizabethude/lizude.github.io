@@ -1,4 +1,4 @@
-title: Your awesome title
++++7/7title: Elizabeth Ude 
 author:
   name: GitHub User
   email: your-email@domain.com
@@ -34,7 +34,7 @@ header_pages:
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
 
-# Minima specific settings, which are only available from Minima 3.0 onward.
+# Min/ima specific settings, which are only available from Minima 3.0 onward.
 minima:
   # Minima skin selection.
   # Available skins are:
