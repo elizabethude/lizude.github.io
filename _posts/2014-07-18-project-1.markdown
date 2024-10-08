@@ -2,7 +2,7 @@
 title: Pentesting technique
 subtitle: Web Application vulnerability exploit
 layout: default
-modal-id: 1
+modal-id: [Read more about the process here](/_posts/_pages/vulnassessmentproj.html)
 date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
