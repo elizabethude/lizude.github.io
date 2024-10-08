@@ -13,4 +13,4 @@ category: Web Development
 description: filler filler
 ---
 <!-- OR using HTML -->
-<a href="pages/vulnassessmentproject.html">Read more about the process here</a>
+<a href="/pages/vulnassessmentproject.html">Read more about the process here</a>
