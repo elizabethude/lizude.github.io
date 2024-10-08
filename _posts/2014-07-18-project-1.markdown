@@ -13,5 +13,5 @@ category: Web Development
 description: filler filler
 ---
 
-[View here](_posts/_pages/vulnassessmentproj.html)
+[View here](/_posts/_pages/vulnassessmentproj.html)
 
