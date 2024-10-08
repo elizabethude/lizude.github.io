@@ -12,5 +12,6 @@ client: Start Bootstrap
 category: Web Development
 description: filler filler
 ---
-<!-- OR using HTML -->
-<a href="/_posts/_pages/vulnassessmentproj.html">Read more about the process here</a>
+
+[Read more about the process here](/_posts/_pages/vulnassessmentproj.html)
+
