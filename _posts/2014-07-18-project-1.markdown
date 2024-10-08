@@ -12,3 +12,5 @@ client: Start Bootstrap
 category: Web Development
 description: filler filler
 ---
+<!-- OR using HTML -->
+<a href="/project1.html">Read more about the process here</a>
