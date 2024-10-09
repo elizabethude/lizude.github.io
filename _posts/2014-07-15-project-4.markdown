@@ -1,12 +1,12 @@
 ---
-title: Metsploitable 2 
+title: Metsploitable 2
 subtitle: Pentest techniques on vulnerable Linux VM
 layout: default
 date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-permalink: /projects/web-app-vulnerability-assessment.html # Custom URL for the post
+permalink: /projects/web-app-vulnerability-assessment.html
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
