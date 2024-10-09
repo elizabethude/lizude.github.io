@@ -6,7 +6,7 @@ date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-permalink: /_posts/projects/web-app-vulnerability-assessment.html
+permalink: /_pages/web-app-vulnerability-assessment.html
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
