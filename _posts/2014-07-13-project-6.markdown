@@ -7,7 +7,7 @@ date: 2014-07-13
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-permalink: /_posts/_pages/vulnassessmentproj.html # Custom URL for the post
+permalink: /projects/web-app-vulnerability-assessment.html # Custom URL for the post
 project-date: May 2024
 client: Start Bootstrap  
 category: Web Development
