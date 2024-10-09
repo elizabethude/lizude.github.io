@@ -2,7 +2,6 @@
 title: Metsploitable 2 
 subtitle: Pentest techniques on vulnerable Linux VM
 layout: default
-modal-id: 4
 date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
