@@ -2,7 +2,6 @@
 title: WebApp Vulnerability Scan
 subtitle: Application security report 
 layout: default
-modal-id: 6
 date: 2014-07-13
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
