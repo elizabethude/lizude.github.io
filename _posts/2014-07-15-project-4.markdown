@@ -7,7 +7,7 @@ date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-permalink: /_posts/_pages/vulnassessmentproj.html # Custom URL for the post
+permalink: /projects/web-app-vulnerability-assessment.html # Custom URL for the post
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
