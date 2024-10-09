@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ page.description }}">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+    <!-- Header Section -->
+    {% include header.html %}
+
+    <!-- Main Content Section -->
+    <section id="project">
+        <div class="container">
+            <h1 class="text-center">{{ page.title }}</h1>
+            <p class="text-center">{{ page.description }}</p>
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <!-- Page Content -->
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    {% include footer.html %}
+</body>
+</html>
 
