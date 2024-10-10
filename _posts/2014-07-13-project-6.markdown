@@ -1,7 +1,7 @@
 ---
 title: WebApp Vulnerability Scan
 subtitle: Application security report
-layout: default
+layout: project
 date: 2014-07-13
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
