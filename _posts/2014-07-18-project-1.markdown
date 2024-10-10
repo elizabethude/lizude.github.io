@@ -1,12 +1,12 @@
 ---
 title: Pentesting technique
 subtitle: Web Application vulnerability exploit
-layout: default
+layout: project
 date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-permalink: /_pages/web-app-vulnerability-assessment.html
+permalink: /portfolio.io/_pages/web-app-vulnerability-assessment
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
