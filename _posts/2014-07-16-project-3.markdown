@@ -1,12 +1,12 @@
 ---
 title: Phishing
 subtitle: Best practices and awareness
-layout: default
+layout: project
 date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-permalink: /_pages/web-app-vulnerability-assessment.html
+permalink: /portfolio.io/_pages/web-app-vulnerability-assessment
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
